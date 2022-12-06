@@ -1,0 +1,4 @@
+/Dataset/
+/Processed/processed/*.npy
+/Processed/reference_img/*.png
+.idea/
