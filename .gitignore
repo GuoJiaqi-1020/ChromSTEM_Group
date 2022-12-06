@@ -1,4 +1,2 @@
-/Dataset/
-/Processed/processed/*.npy
-/Processed/reference_img/*.png
+__pycache__
 .idea/
